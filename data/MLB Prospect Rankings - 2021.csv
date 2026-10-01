@@ -1,0 +1,100 @@
+Rank,Player,Position,Current Team,Current Level,Current Age,Bats,Throws,Age at Rankings
+1,Wander Franco,SS,Tampa Bay Rays,MLB,25,S,R,20
+2,Adley Rutschman,C,Boston Red Sox,MLB,28,S,R,23
+3,Spencer Torkelson,1B/3B,Detroit Tigers,MLB,27,R,R,22
+4,Jarred Kelenic,OF,New York Yankees,AAA,27,L,L,22
+5,Julio Rodríguez,OF,Seattle Mariners,MLB,25,R,R,20
+6,MacKenzie Gore,LHP,Texas Rangers,MLB,27,L,L,22
+7,Bobby Witt Jr.,SS/3B,Kansas City Royals,MLB,26,R,R,21
+8,CJ Abrams,SS,Washington Nationals,MLB,25,L,R,20
+9,Ke'Bryan Hayes,3B,Cincinnati Reds,MLB,29,R,R,24
+10,Nate Pearson,RHP,Kansas City Royals,MLB,30,R,R,25
+11,Casey Mize,RHP,San Diego Padres,MLB,29,R,R,24
+12,Cristian Pache,OF,New York Mets,MLB,27,R,R,22
+13,Dylan Carlson,OF,Philadelphia Phillies,AAA,27,S,L,22
+14,Andrew Vaughn,1B/OF,Milwaukee Brewers,MLB,28,R,R,23
+15,Sixto Sánchez,RHP,Miami Marlins,AAA,28,R,R,23
+16,Marco Luciano,SS,New York Yankees,AAA,25,R,R,20
+17,Royce Lewis,SS,Minnesota Twins,MLB,27,R,R,22
+18,Ian Anderson,RHP,Atlanta Braves,AAA,28,R,R,23
+19,Luis Patiño,RHP,-,-,26,R,R,21
+20,JJ Bleday,OF,Cincinnati Reds,MLB,28,L,L,23
+21,Riley Greene,OF,Detroit Tigers,MLB,26,L,L,21
+22,Austin Martin,SS/OF/2B,Minnesota Twins,MLB,27,R,R,22
+23,Joey Bart,C,Chicago White Sox,MLB,29,R,R,24
+24,Tarik Skubal,LHP,Los Angeles Dodgers,MLB,29,R,L,24
+25,Matt Manning,RHP,Philadelphia Phillies,AA,28,R,R,23
+26,Alex Kirilloff,OF/1B,Minnesota Twins,MLB,28,L,L,23
+27,Grayson Rodriguez,RHP,Los Angeles Angels,MLB,26,L,R,21
+28,Max Meyer,RHP,Miami Marlins,MLB,27,L,R,22
+29,Daniel Lynch IV,LHP,Kansas City Royals,MLB,29,L,L,24
+30,Asa Lacy,LHP,Kansas City Royals,AA,27,L,L,22
+31,Emerson Hancock,RHP,Seattle Mariners,MLB,27,R,R,22
+32,Jasson Domínguez,OF,New York Yankees,MLB,23,S,R,18
+33,Logan Gilbert,RHP,Seattle Mariners,MLB,29,R,R,24
+34,Randy Arozarena,OF,Seattle Mariners,MLB,31,R,R,26
+35,Drew Waters,OF,Kansas City Royals,AAA,27,S,R,22
+36,Nolan Jones,OF/3B,Seattle Mariners,AAA,28,L,R,23
+37,Matthew Liberatore,LHP,St. Louis Cardinals,MLB,26,L,L,21
+38,Nolan Gorman,2B/3B,St. Louis Cardinals,MLB,26,L,R,21
+39,Michael Kopech,RHP,Los Angeles Dodgers,MLB,30,R,R,25
+40,Nick Madrigal,2B,Tampa Bay Rays,MLB,29,R,R,24
+41,Forrest Whitley,RHP,Tampa Bay Rays,MLB,29,R,R,24
+42,Spencer Howard,RHP,San Francisco Giants,AAA,30,R,R,25
+43,Nick Gonzales,2B/SS,Pittsburgh Pirates,MLB,27,R,R,22
+44,Triston Casas,1B,Boston Red Sox,MLB,26,L,R,21
+45,Luis Campusano,C,San Diego Padres,MLB,28,R,R,23
+46,Jordan Groshans,3B/SS,Atlanta Braves,AAA,26,R,R,21
+47,Corbin Carroll,OF,Arizona Diamondbacks,MLB,26,L,L,21
+48,Francisco Alvarez,C,New York Mets,MLB,24,R,R,19
+49,Jeter Downs,SS,New York Yankees,AAA,28,R,R,23
+50,Vidal Bruján,OF/2B/SS,New York Mets,AAA,28,S,R,23
+51,Quinn Priester,RHP,Milwaukee Brewers,MLB,26,R,R,21
+52,Brandon Marsh,OF,Philadelphia Phillies,MLB,28,L,R,23
+53,Zac Veen,OF,Colorado Rockies,MLB,24,L,R,19
+54,Kristian Robinson,OF,Arizona Diamondbacks,AAA,25,R,R,20
+55,Garrett Crochet,LHP,Boston Red Sox,MLB,27,L,L,22
+56,Keibert Ruiz,C,Washington Nationals,MLB,28,S,R,23
+57,Josiah Gray,RHP,Washington Nationals,MLB,28,R,R,23
+58,Nick Lodolo,LHP,Cincinnati Reds,MLB,28,L,L,23
+59,Brailyn Marquez,LHP,Houston Astros,AAA,27,L,L,22
+60,Brennen Davis,OF,Seattle Mariners,MLB,26,R,R,21
+61,Robert Hassell III,OF,Pittsburgh Pirates,AAA,25,L,L,20
+62,Josh Jung,3B,Texas Rangers,MLB,28,R,R,23
+63,Oneil Cruz,SS,Pittsburgh Pirates,MLB,27,L,R,22
+64,Garrett Mitchell,OF,Milwaukee Brewers,MLB,28,L,R,23
+65,Jazz Chisholm Jr.,SS/2B,New York Yankees,MLB,28,L,R,23
+66,Ronny Mauricio,2B/SS/OF,New York Mets,MLB,25,S,R,20
+67,Edward Cabrera,RHP,Chicago Cubs,MLB,28,R,R,23
+68,Heston Kjerstad,OF,Baltimore Orioles,MLB,27,L,R,22
+69,DL Hall,LHP,Milwaukee Brewers,MLB,28,L,L,23
+70,Hunter Greene,RHP,Cincinnati Reds,MLB,27,R,R,22
+71,Brendan McKay,LHP,Tampa Bay Rays,AAA,30,L,L,25
+72,Shea Langeliers,C,Athletics,MLB,28,R,R,23
+73,Reid Detmers,LHP,Los Angeles Angels,MLB,27,L,L,22
+74,Matt Allan,RHP,New York Mets,A+,25,R,R,20
+75,Mick Abel,RHP,Minnesota Twins,MLB,25,R,R,20
+76,Ryan Mountcastle,OF/1B,Baltimore Orioles,MLB,29,R,R,24
+77,Sam Huff,C/1B,Baltimore Orioles,AAA,28,R,R,23
+78,Geraldo Perdomo,SS,Arizona Diamondbacks,MLB,26,S,R,21
+79,Trevor Larnach,OF,Minnesota Twins,MLB,29,L,R,24
+80,Alek Thomas,OF,Los Angeles Dodgers,AAA,26,L,L,21
+81,Heliot Ramos,OF,New York Yankees,MLB,27,R,R,22
+82,Hunter Bishop,OF,San Francisco Giants,AAA,28,L,R,23
+83,Shane McClanahan,LHP,Tampa Bay Rays,MLB,29,L,L,24
+84,Xavier Edwards,2B/OF,Miami Marlins,MLB,27,S,R,22
+85,Austin Hendrick,OF,Cincinnati Reds,AA,25,L,L,20
+86,Simeon Woods Richardson,RHP,Seattle Mariners,AAA,26,R,R,21
+87,Clarke Schmidt,RHP,New York Yankees,MLB,30,R,R,25
+88,Miguel Amaya,C,Chicago Cubs,MLB,27,R,R,22
+89,Shane Baz,RHP,Baltimore Orioles,MLB,27,R,R,22
+90,Dane Dunning,RHP,Seattle Mariners,AAA,31,R,R,26
+91,George Kirby,RHP,Seattle Mariners,MLB,28,R,R,23
+92,Bobby Dalbec,3B/1B,Kansas City Royals,AAA,31,R,R,26
+93,Brett Baty,3B/OF,New York Mets,MLB,26,L,R,21
+94,Tyler Stephenson,C,Cincinnati Reds,MLB,30,R,R,25
+95,Brice Turang,SS/2B/OF,Milwaukee Brewers,MLB,26,L,R,21
+96,Jordan Balazovic,RHP,Detroit Tigers,AAA,28,R,R,23
+97,Tyler Freeman,SS/2B,Colorado Rockies,AAA,27,R,R,22
+98,Cade Cavalli,RHP,Washington Nationals,MLB,28,R,R,23
+99,Taylor Trammell,OF,Houston Astros,MLB,29,L,L,24
