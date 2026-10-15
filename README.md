@@ -8,5 +8,5 @@ We use FanGraphs prospect rankings and the players' later MLB WAR to test whethe
 **Unit of observation (after cleaning):** one row per prospect. Each row uses the prospect's most recent ranking year.
 
 ## Codebook
-### Identifiers
+
 
