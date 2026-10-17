@@ -27,7 +27,7 @@ We cleaned the columns we are using (in codebook) and got rid of the ones we are
 
 **Are you deciding to exclude any observations? If so, why?**
 
-Every player in the dataset has the majority of metrics (depending on position some don't have all) so they are all usable and we didn't exclude and observations. 
+Every player in the dataset has the majority of metrics. Depending on position and how low in the rankings the prospect was some don't have all (especially numeric metrics like Max exit velocity and hard hit%) but these are often the prospects that over perform their grades so they are still useful datapoints. As a result we didn't exclude any observations. 
 
 **Did you have to create any new variables from existing variables? If so, how and why?**
 
