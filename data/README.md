@@ -15,10 +15,10 @@ We are using FanGraphs prospect rankings combined with players' later MLB WAR to
 - **Org**: MLB organization at the time of ranking. Values: team abbreviations (e.g., KCR, SEA).
 - **Rank**: Overall prospect rank. Range: 1–100+ (1 = best).
 - **Pos**: Listed position. Values: C, 1B, 2B, 3B, SS, LF, CF, RF, DH, SP, RHP, LHP, MIRP, SIRP.
-- **Pos Group**: Position grouped for comparison. Values: C, IF, OF, P.
+- **Pos_Group**: Position grouped for comparison. Values: C, IF, OF, P.
 - **Age**: Age at time of ranking. Units: years.
-- **Height**: Player height. Units: inches.
-- **Weight**: Player weight. Units: pounds.
+- **Ht**: Player height. Units: inches.
+- **Wt**: Player weight. Units: pounds.
 - **Height Build / Weight Build**: Height or weight compared to others at the same position (more than 1 standard deviation from the position average counts as atypical). Values: Short/Typical/Tall and Light/Typical/Heavy.
 - **Signed.From**: School, college, or country the player signed from. Values: text.
 - **Sign.Mkt**: Market the player signed in. Values: e.g., J2, Intl15, draft.
