@@ -26,7 +26,7 @@ We are using FanGraphs prospect rankings combined with players' later MLB WAR to
 - **Bonus**: Signing bonus. Units: US dollars.
 - **Risk**: FanGraphs' risk that the player doesn't reach his FV. Values: Low, Med, High.
 - **FV**: FanGraphs Future Value grade. Range: 20–80 (scouting scale).
-- **Tool grades (Hit, Game, Raw, Spd, Fld, FB, SL, CB, CH, CMD)**: Future scouting grades for hitting, game power, raw power, speed, fielding, fastball, slider, curveball, changeup, and command. Range: 20–80.
+- **Tool grades (Hit, Game.PWR, Raw.PWR, Spd, Pitch.Sel, Bat.Ctrl, Fld, FB, SL, CB, CH, CMD)**: Future scouting grades for hitting, game power, raw power, pitch selection, bat control, speed, fielding, fastball, slider, curveball, changeup, and command. Range: 20–80.
 - **Max.EV**: Maximum exit velocity (for hitter). Units: mph.
 - **Hard.Hit**: Hard-hit rate (for hitter). Range: 0–1 (proportion of batted balls).
 - **Tops**: Maximum Fastball velocity. Units: mph.
