@@ -31,6 +31,8 @@ We are using FanGraphs prospect rankings combined with players' later MLB WAR to
 - **Hard.Hit**: Hard-hit rate (for hitter). Range: 0–1 (proportion of batted balls).
 - **Tops**: Maximum Fastball velocity. Units: mph.
 - **RPM.Break**: Spin rate of breaking ball. Units: rpm.
+- **TJ.Date**: Date when player underwent Tommy John Surgery (elbow surgery). Format: MM/DD/YY
+- **had_tj**: Binary variable indicating whether pitcher underwent Tommy John Surgery (1=Yes, 2=No)
 - **2020 WAR – 2026 WAR**: Wins Above Replacement in each MLB season (0 if the player didn't play). Units: WAR.
 - **Total WAR**: Sum of all season WAR. Units: WAR.
 - **Seasons Played**: Number of seasons with nonzero WAR. Range: 0–7.
