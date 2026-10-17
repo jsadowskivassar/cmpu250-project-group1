@@ -6,7 +6,7 @@ We are using FanGraphs prospect rankings combined with players' later MLB WAR to
  
 **Unit of observation (after cleaning):** one row per prospect. Each row uses the prospect's most recent ranking year.
 
-**Cleaned Data:** 
+**Cleaned Data:** `Final Prospect Rankings Data.csv`
 
 ## Codebook
 
